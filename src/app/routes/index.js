@@ -4,7 +4,7 @@ const rutas = router();
 
 rutas.get("/", (req, res)=>{
 
-    res.send('Hola Mund!!!');
+    res.send('Hola Mundo!!!');
 
 });
 
